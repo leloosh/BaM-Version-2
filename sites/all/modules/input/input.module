@@ -9,7 +9,10 @@
  * http://api.drupal.org/api/drupal/developer--topics--forms_api_reference.html/7
  
  * ADDED This line to demonstrate how to push changees from local deve to Remote repo, and 
- * then pull from remote repo to local production/staginh
+ * then pull from remote repo to local production/staging   FTECH & MERGE
+ 
+ 
+ * Example of PULL
  
  
  */
